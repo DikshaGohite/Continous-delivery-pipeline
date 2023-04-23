@@ -8,5 +8,5 @@ Project Overview:
 -> AWS Elastic Beanstalk is used to deploy the web application 
 -> AWS CodeBuild enables to run the build process of the web app from the GitHub repository
 -> AWS CodePipeline helps to setup a continous delivery pipeline with source build and deploy stages. The pipeline will detect code changes in the code GitHub repo          code, build the code using CodeBuild and deploy the changes using CodePipeline to AWS Elastic Beanstalk.
--> AWS CodePipeline is used to add a review stage with manual approval to our continuous delivery pipeline. Now, the code changes will have to be reviewed and                approved manually before they are deployed to AWS Elastic Beanstalk.
+-> A review stage is added to the code pipeline to provide manual approval to this continuous delivery pipeline. Now, the code changes will have to be reviewed and          approved manually before they are deployed to AWS Elastic Beanstalk. 
 
