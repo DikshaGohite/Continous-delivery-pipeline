@@ -12,6 +12,7 @@ AWS CodeBuild: AWS CodeBuild is a fully managed continuous integration service t
 AWS CodePipeline: AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates.
 
 Architecture
+
 ![Architecture-2](https://user-images.githubusercontent.com/128709137/233804655-48dac75a-57e0-4d97-a0ad-bf2f8448c3f9.PNG)
 
 
