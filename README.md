@@ -1,4 +1,4 @@
-Creating a continous delivery pipeline to deploy Sample Node.js App to AWS Elastic Beanstalk
+Project Description: Creating a continous delivery pipeline to deploy Sample Node.js App to AWS Elastic Beanstalk and this continuous delivery pipeline will automatically deploy the web application whenever your source code is updated.
 
 Services Used:
 GitHub, AWS Elastic Beanstalk, AWS CodeBuild, AWS CodePipeline 
@@ -14,5 +14,6 @@ AWS CodePipeline: AWS CodePipeline is a fully managed continuous delivery servic
 Architecture
 
 ![Architecture-2](https://user-images.githubusercontent.com/128709137/233804655-48dac75a-57e0-4d97-a0ad-bf2f8448c3f9.PNG)
+
 
 
