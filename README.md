@@ -15,10 +15,12 @@ AWS CodePipeline
 Architecture
 ![Architecture-2](https://user-images.githubusercontent.com/128709137/233804655-48dac75a-57e0-4d97-a0ad-bf2f8448c3f9.PNG)
 
-Project Overview: 
--> GitHub is used here as a repository to store the source code
--> AWS Elastic Beanstalk is used to deploy the web application 
--> AWS CodeBuild enables to run the build process of the web app from the GitHub repository
--> AWS CodePipeline helps to setup a continous delivery pipeline with source build and deploy stages. The pipeline will detect code changes in the code GitHub repo          code, build the code using CodeBuild and deploy the changes using CodePipeline to AWS Elastic Beanstalk.
--> A review stage is added to the code pipeline to provide manual approval to this continuous delivery pipeline. Now, the code changes will have to be reviewed and          approved manually before they are deployed to AWS Elastic Beanstalk. 
+Step 1: Push the source code from your local to GitHub
 
+Step 2: 
+
+step 3:
+
+step 4:
+
+step 5:
